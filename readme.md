@@ -2,7 +2,7 @@ Structure:
 
 ```shell
 Project:
-  licence.txt     - CC-BY-SA Licence
+  licence.txt     - GPL Licence
   readme.md       - Getting Started Guide
 ```
 
